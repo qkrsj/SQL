@@ -9,8 +9,8 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 ## 커리큘럼
 | Day | 주제 |
 |-----|------|
-| 01 | SELECT 기초 |
-| 02 | WHERE 조건 |
+| 01 | SELECT 기초 (완료) |
+| 02 | WHERE 조건 (완료) |
 | 03 | ORDER BY, LIMIT |
 | 04 | 집계 함수 (COUNT, SUM, AVG) |
 | 05 | GROUP BY, HAVING |
