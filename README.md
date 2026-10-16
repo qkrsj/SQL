@@ -12,7 +12,7 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 01 | SELECT 기초 (완료) |
 | 02 | WHERE 조건 (완료) |
 | 03 | ORDER BY, LIMIT (완료) |
-| 04 | 집계 함수 (COUNT, SUM, AVG) |
+| 04 | 집계 함수 (COUNT, SUM, AVG) (완료) |
 | 05 | GROUP BY, HAVING |
 | 06 | INNER JOIN |
 | 07 | LEFT / RIGHT JOIN |
