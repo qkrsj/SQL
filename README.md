@@ -18,4 +18,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 07 | LEFT / RIGHT JOIN (완료) |
 | 08 | 서브쿼리 (완료) |
 | 09 | INSERT / UPDATE / DELETE (완료) |
-| 10 | CREATE TABLE, 제약조건 |
+| 10 | CREATE TABLE, 제약조건 (완료) |
