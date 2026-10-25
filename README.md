@@ -20,3 +20,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 09 | INSERT / UPDATE / DELETE (완료) |
 | 10 | CREATE TABLE, 제약조건 (완료) |
 | 11 | CASE WHEN (조건 분기) (완료) |
+| 12 | 문자열 함수 (LENGTH, SUBSTR, TRIM, REPLACE) (완료) |
