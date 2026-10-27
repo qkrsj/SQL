@@ -22,3 +22,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 11 | CASE WHEN (조건 분기) (완료) |
 | 12 | 문자열 함수 (LENGTH, SUBSTR, TRIM, REPLACE) (완료) |
 | 13 | 날짜 함수 (날짜 비교, 추출, 더하기, 차이) (완료) |
+| 14 | 윈도우 함수 (ROW_NUMBER, RANK, 누적합, LAG/LEAD) (완료) |
