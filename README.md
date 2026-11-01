@@ -27,3 +27,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 16 | 뷰 (CREATE VIEW, 집계 뷰, DROP VIEW) (완료) |
 | 17 | 트랜잭션 (BEGIN, COMMIT, ROLLBACK) (완료) |
 | 18 | 집합 연산 (UNION, UNION ALL) (완료) |
+| 19 | CTE (WITH 절, 다중 CTE) (완료) |
