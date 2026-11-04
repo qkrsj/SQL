@@ -30,3 +30,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 19 | CTE (WITH 절, 다중 CTE) (완료) |
 | 20 | NULL 처리 (IS NULL, COALESCE, NULLIF) (완료) |
 | 21 | 셀프 조인 (SELF JOIN, 직원-상사, 같은 테이블 비교) (완료) |
+| 22 | 상관 서브쿼리 (EXISTS, NOT EXISTS, NOT IN의 NULL 함정) (완료) |
