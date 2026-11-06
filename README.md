@@ -32,3 +32,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 21 | 셀프 조인 (SELF JOIN, 직원-상사, 같은 테이블 비교) (완료) |
 | 22 | 상관 서브쿼리 (EXISTS, NOT EXISTS, NOT IN의 NULL 함정) (완료) |
 | 23 | 조건부 집계와 피벗 (SUM(CASE WHEN), 조건별 개수, 취소율) (완료) |
+| 24 | 중복 데이터 찾기와 제거 (DISTINCT, GROUP BY HAVING, DELETE) (완료) |
