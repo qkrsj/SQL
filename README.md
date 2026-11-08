@@ -34,3 +34,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 23 | 조건부 집계와 피벗 (SUM(CASE WHEN), 조건별 개수, 취소율) (완료) |
 | 24 | 중복 데이터 찾기와 제거 (DISTINCT, GROUP BY HAVING, DELETE) (완료) |
 | 25 | 그룹별 Top N (ROW_NUMBER, RANK, 상관 서브쿼리) (완료) |
+| 26 | CROSS JOIN (모든 조합, 빠진 조합 찾기, CROSS JOIN + LEFT JOIN) (완료) |
