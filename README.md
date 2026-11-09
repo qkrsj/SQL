@@ -35,3 +35,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 24 | 중복 데이터 찾기와 제거 (DISTINCT, GROUP BY HAVING, DELETE) (완료) |
 | 25 | 그룹별 Top N (ROW_NUMBER, RANK, 상관 서브쿼리) (완료) |
 | 26 | CROSS JOIN (모든 조합, 빠진 조합 찾기, CROSS JOIN + LEFT JOIN) (완료) |
+| 27 | 재귀 CTE (WITH RECURSIVE, 숫자·날짜 목록, 조직도 계층) (완료) |
