@@ -36,3 +36,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 25 | 그룹별 Top N (ROW_NUMBER, RANK, 상관 서브쿼리) (완료) |
 | 26 | CROSS JOIN (모든 조합, 빠진 조합 찾기, CROSS JOIN + LEFT JOIN) (완료) |
 | 27 | 재귀 CTE (WITH RECURSIVE, 숫자·날짜 목록, 조직도 계층) (완료) |
+| 28 | 윈도우 함수 심화 (ROWS BETWEEN 프레임, 이동 평균, NTILE, FIRST_VALUE/LAST_VALUE) (완료) |
