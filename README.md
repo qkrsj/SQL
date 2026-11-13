@@ -39,3 +39,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 28 | 윈도우 함수 심화 (ROWS BETWEEN 프레임, 이동 평균, NTILE, FIRST_VALUE/LAST_VALUE) (완료) |
 | 29 | 연속 구간 찾기 (Gaps and Islands, ROW_NUMBER 차이, LAG로 빠진 구간) (완료) |
 | 30 | 교집합과 차집합 (INTERSECT, EXCEPT, 대칭 차집합, IN/NOT IN 대체) (완료) |
+| 31 | 숫자 계산과 형변환 (ROUND, ABS, %, 정수 나눗셈 함정, CAST) (완료) |
