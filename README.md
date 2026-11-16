@@ -42,3 +42,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 31 | 숫자 계산과 형변환 (ROUND, ABS, %, 정수 나눗셈 함정, CAST) (완료) |
 | 32 | 문자열 연결과 그룹 문자열 (||, COALESCE, GROUP_CONCAT, DISTINCT) (완료) |
 | 33 | 비율과 점유율 (SUM() OVER (), PARTITION BY 점유율, 누적 비율, 파레토) (완료) |
+| 34 | 전월 대비 증감률 (LAG/LEAD, 증감액·증감률, NULLIF 0 나누기 방지, FIRST_VALUE 지수) (완료) |
