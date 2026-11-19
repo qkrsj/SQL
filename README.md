@@ -45,3 +45,4 @@ SQL 기초부터 매일 한 파일씩 연습하는 저장소입니다.
 | 34 | 전월 대비 증감률 (LAG/LEAD, 증감액·증감률, NULLIF 0 나누기 방지, FIRST_VALUE 지수) (완료) |
 | 35 | 페이지네이션 (LIMIT/OFFSET, 정렬 기준 유일화, 전체 페이지 수, 키셋 페이징) (완료) |
 | 36 | 범위 조인 (Non-equi JOIN, BETWEEN 조인, 구간표 매핑, 할인율 적용) (완료) |
+| 37 | INSERT ... SELECT와 서브쿼리 UPDATE/DELETE (백업 복사, 스칼라·집계 서브쿼리 갱신, EXISTS 조건부 갱신) (완료) |
